@@ -15,7 +15,7 @@
             {
                 "label": "Pricing",
                 "url": "/pricing",
-                "style": "link"
+                "style": "primary"
             },
             {
                 "label": "About",
