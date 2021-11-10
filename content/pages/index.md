@@ -4,10 +4,7 @@ sections:
   - type: hero_section
     title: creditos a militares y policias
     subtitle: "no importa si esta reportado\_ desemboloso inmediato"
-    content: >-
-      App Land combines your work and home calendars with all your task
-      management tools into one seamless experience controlled by a single app
-      that you can use on any device.
+    content: "1.\n\n    “El futuro económico, y no económico, de una persona lo determina más la buena o mala gestión del dinero que haga esa persona que los ingresos que llegue a tener a lo largo de su vida”.\_Gregorio Hernández Jiménez, inversor en Bolsa y escritor español.\n\n"
     actions:
       - label: App Store
         url: /pricing
