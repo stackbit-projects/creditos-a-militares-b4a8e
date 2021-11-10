@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: creditos a militares y policias
-    subtitle: Stop switching between calendars and task lists!
+    subtitle: "no importa si esta reportado\_ desemboloso inmediato"
     content: >-
       App Land combines your work and home calendars with all your task
       management tools into one seamless experience controlled by a single app
