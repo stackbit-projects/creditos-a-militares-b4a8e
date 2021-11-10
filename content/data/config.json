@@ -15,7 +15,8 @@
             {
                 "label": "solicita",
                 "url": "/pricing",
-                "style": "primary"
+                "style": "primary",
+                "has_icon": true
             },
             {
                 "label": "About",
