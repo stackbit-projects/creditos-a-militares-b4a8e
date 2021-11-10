@@ -15,7 +15,7 @@
             {
                 "label": "solicita",
                 "url": "/pricing",
-                "style": "secondary"
+                "style": "primary"
             },
             {
                 "label": "About",
