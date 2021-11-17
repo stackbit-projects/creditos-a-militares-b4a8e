@@ -6,10 +6,10 @@ sections:
     subtitle: "no importa si esta reportado\_ desemboloso inmediato"
     content: "*   “El futuro económico, y no económico, de una persona lo determina más la buena o mala gestión del dinero que haga esa persona que los ingresos que llegue a tener a lo largo de su vida”.\_Gregorio Hernández Jiménez inversor en Bolsa y escritor español.\n"
     actions:
-      - label: App Store
+      - label: 'CHATEA '
         url: /pricing
         style: primary
-      - label: Google Play
+      - label: INFORMACION
         url: /pricing
         style: secondary
     image: /images/chatbot.jpg
@@ -21,15 +21,15 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: What's Great About App Land?
+    title: CUALES SON NUESTROS TRAMITES ?
     subtitle: In a Glance
     align: center
     grid_items:
-      - title: Right When You Need It
+      - title: TRAMITAMOS RETIROS DE CESANTIAS
         title_align: left
         content: >-
-          See all of your appointments, work meetings and life events in one
-          place so you know exactly where you need to be at any given time.
+          TRAMITAMOS RETIRO DE CESANTIAS DE VIVIENDA DE CAJA HONOR PLAN MASVI 
+          RECUPERAMOS SUBSIDIOS DE VIVVIENDA ABOGADOS ESPECIALIZADOS .
         content_align: left
         actions:
           - label: Learn More
@@ -44,11 +44,11 @@ sections:
         image_align: left
         image_has_padding: true
         image_position: top
-      - title: On Any Device
+      - title: BORRAMOS TU REPORTE DE DATA CREDITO
         title_align: left
         content: >-
-          App Land synchronizes across Android and iOS phones, and on your
-          computer or tablet. See all your dates and info anywhere you are.
+          TE LIBERAMOS DE DATA CREDITO MEDIANTE TUTELA 
+          DEJAMOS TU DATA CREDITO LIMPIO NO IMPORTA EL REPORTE  .
         content_align: left
         actions:
           - label: Learn More
@@ -63,11 +63,13 @@ sections:
         image_align: left
         image_has_padding: true
         image_position: top
-      - title: Smart Notifications
+      - title: CREDITOS A PERSONAS
         title_align: left
         content: >-
-          Get color-coded notifications for easy viewing at a glance. Your tasks
-          and appointments show up conveniently in one place.
+         SACAMOS VEHICULOS ACREDITADOS SIN CUOTA INICIAL 
+         SIN VIDA CREDITICIA PRESTAMOS EN TRIPLETA POR BANCOS 
+         SACAMOS TARJETA DE CREDITOS 
+         .
         content_align: left
         actions:
           - label: Learn More
