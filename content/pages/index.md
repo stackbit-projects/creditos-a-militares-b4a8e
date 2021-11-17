@@ -25,7 +25,7 @@ sections:
     subtitle: In a Glance
     align: center
     grid_items:
-      - title: BORRAMOS TU REPORTE DE DATA CREDITO
+      - title: TRAMITAMOS RETIROS DE CESANTIAS
         title_align: left
         content: >-
           See all of your appointments, work meetings and life events in one
