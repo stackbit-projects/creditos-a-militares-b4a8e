@@ -9,7 +9,7 @@ sections:
       - label: 'CHATEA '
         url: /pricing
         style: primary
-      - label: Google Play
+      - label: INFORMACION
         url: /pricing
         style: secondary
     image: /images/chatbot.jpg
