@@ -1,6 +1,6 @@
 ---
 title: 6 consejos para mejorar tu vida financiera
-subtitle: .
+subtitle: estamos .
 date: '2020-06-02'
 categories:
   - content/data/categories/tutorials.yaml
