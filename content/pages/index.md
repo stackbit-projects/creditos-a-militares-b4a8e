@@ -28,8 +28,8 @@ sections:
       - title: TRAMITAMOS RETIROS DE CESANTIAS
         title_align: left
         content: >-
-          See all of your appointments, work meetings and life events in one
-          place so you know exactly where you need to be at any given time.
+          TRAMITAMOS RETIRO DE CESANTIAS DE VIVIENDA DE CAJA HONOR PLAN MASVI 
+          RECUPERAMOS SUBSIDIOS DE VIVVIENDA ABOGADOS ESPECIALIZADOS .
         content_align: left
         actions:
           - label: Learn More
@@ -47,8 +47,8 @@ sections:
       - title: BORRAMOS TU REPORTE DE DATA CREDITO
         title_align: left
         content: >-
-          App Land synchronizes across Android and iOS phones, and on your
-          computer or tablet. See all your dates and info anywhere you are.
+          TE LIBERAMOS DE DATA CREDITO MEDIANTE TUTELA 
+          DEJAMOS TU DATA CREDITO LIMPIO NO IMPORTA EL REPORTE  .
         content_align: left
         actions:
           - label: Learn More
@@ -66,8 +66,10 @@ sections:
       - title: CREDITOS A PERSONAS
         title_align: left
         content: >-
-          Get color-coded notifications for easy viewing at a glance. Your tasks
-          and appointments show up conveniently in one place.
+         SACAMOS VEHICULOS ACREDITADOS SIN CUOTA INICIAL 
+         SIN VIDA CREDITICIA PRESTAMOS EN TRIPLETA POR BANCOS 
+         SACAMOS TARJETA DE CREDITOS 
+         .
         content_align: left
         actions:
           - label: Learn More
