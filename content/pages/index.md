@@ -27,8 +27,11 @@ sections:
     grid_items:
       - title: TRAMITAMOS RETIROS DE CESANTIAS
         title_align: left
-        content: |
-          contactanos 
+        content: >
+          nos encargamos de todo el tema de la papeleria para el retiro de
+          cesantias de caja honor  promesa de compraventa tramitamos el masvi
+          para que no pierda el subsidio de vivienda hacemos segundos pagos 
+          adelanto de dinero mientras espera su tramite 
         content_align: left
         actions:
           - label: Learn More
