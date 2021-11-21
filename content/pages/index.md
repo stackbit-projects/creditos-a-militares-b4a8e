@@ -67,9 +67,8 @@ sections:
         image_position: top
       - title: CREDITOS A PERSONAS
         title_align: left
-        content: >-
-          Get color-coded notifications for easy viewing at a glance. Your tasks
-          and appointments show up conveniently in one place.
+        content: |
+          creditos empleados independientes reqisito estar bn en data credito 
         content_align: left
         actions:
           - label: Learn More
