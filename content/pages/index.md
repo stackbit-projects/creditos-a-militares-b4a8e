@@ -48,9 +48,9 @@ sections:
         image_position: top
       - title: BORRAMOS TU REPORTE DE DATA CREDITO
         title_align: left
-        content: >-
-          App Land synchronizes across Android and iOS phones, and on your
-          computer or tablet. See all your dates and info anywhere you are.
+        content: >
+          subimos el puntaje de data crédito quitamos reporte de data crédito
+          abogados especializados en el tema 
         content_align: left
         actions:
           - label: Learn More
